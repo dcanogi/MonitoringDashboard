@@ -1,2 +1,2 @@
 # MonitoringDashboard
-Monitoring Dashboard using Grafana and runescope
+Monitoring Dashboard using Grafana and Runscope
