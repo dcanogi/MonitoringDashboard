@@ -541,7 +541,7 @@ This query checks if the CPU usage is above 1%.
 
 ### Configuring Slack for Grafana Alerts
 
-1. #### Create a New App in Slack
+#### 1. Create a New App in Slack
 
 Go to the Slack API Page:
 
@@ -570,7 +570,7 @@ In OAuth Tokens for Your Workspace, copy the Bot User OAuth Token that starts wi
     - Copy the Channel ID.
 
 
-2. #### Configure Grafana to Use Slack
+#### 2. Configure Grafana to Use Slack
 Access Grafana:
 
 - Open Grafana and go to Alerting > Contact points.
@@ -602,7 +602,7 @@ Save the Contact Point:
 
 Click Save contact point.
 
-4. #### Add the Contact Point to an Alert Rule
+#### 3.  Add the Contact Point to an Alert Rule
 Access Alert Rules:
 
 In Grafana, go to Alerting > Alert rules.
